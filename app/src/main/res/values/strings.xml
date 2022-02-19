@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="power_off">Off</string>
+
+    <string name="power_on">On</string>
+    <string name="change">Change</string>
+    <string name="reset">Reset</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <declare-styleable name="DialView">
+            <attr name="powerColor1" format="color" />
+            <attr name="powerColor2" format="color" />
+        </declare-styleable>
+    </resources>
